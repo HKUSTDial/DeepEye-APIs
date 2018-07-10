@@ -16,6 +16,7 @@ Usage
 - [x] Python 2.7
 - [x] MySQL 5.7
 - [x] [MySQLdb](http://mysql-python.sourceforge.net/MySQLdb.html#installation)
+- [x] [numpy](https://github.com/numpy/numpy)
 
 - ### How to use
 #### 1. Prepare Dataset 
@@ -33,16 +34,16 @@ city| date | electricity(kWh)
 |Shanghai   |2016/8/25| 66249.55
 
 #### 2. Execute Recommendation Algorithm
-We can run the algorithm by executing *.pyc file, following the below guidance:
+We can run the algorithm by executing *.py file, following the below guidance:
 ```
 Python2.7 [path] [MySQLdb_arguments] [table] [SQL] [column_name] [column_type]
 ```
 ```
-python2.7 /path/Learning-to-rank/learn_to_rank.pyc 'localhost' 3306 'root' 'dbpsd' 'scheme' 'electricity' 'SELECT * FROM `electricity`' 'city' 'date' 'electricity(kWh)' 'varchar(125)' 'date' 'float'
+python2.7 /path/Learning-to-rank/learning_to_rank.py 'localhost' 3306 'root' 'dbpsd' 'scheme' 'electricity' 'SELECT * FROM `electricity`' 'city' 'date' 'electricity(kWh)' 'varchar(125)' 'date' 'float'
 ```
-- **path**: the path of *.pyc file. e.g.: 
+- **path**: the path of *.py file. e.g.: 
 ```
-'/user/Learning-to-rank/learn_to_rank.pyc'
+'/user/Learning-to-rank/learning_to_rank.py'
 ```
 
 - **MySQLdb_arguments**: we should post the MySQLdb connection arguments:
@@ -69,7 +70,7 @@ or
 ```
 -  **column_name**: the columns of table for visualization, e.g.,
 ```
-'city' 'date' 'electricity(kWh)'
+'city' 'date' 'electricity(kWh)'o
 ```
 - **column_type**: the type of columns, following the MySQL database standard, e.g.,
 ```
