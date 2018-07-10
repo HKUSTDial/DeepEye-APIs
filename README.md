@@ -76,7 +76,9 @@ or
 'VARCHAR(25)' 'DATE' 'FLOAT'
 ```
 
+
 ==NOTE: all arguments are separated by spaces==
+
 
 ### 3. Output
 
