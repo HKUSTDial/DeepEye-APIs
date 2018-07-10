@@ -22,6 +22,7 @@ Usage
 DeepEye gets dataset for visualization from MySQL database. A dataset for visualization like this:
 
 **Table Name**: electricity
+
 city| date | electricity(kWh)
 ---|---| ---|
 |Eastern China|	2011/1/1|	251503.28|
