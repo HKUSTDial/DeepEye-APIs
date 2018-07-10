@@ -82,7 +82,7 @@ or
 
 ### 3. Output
 
-The algorithm output JSON data for visualization, looks like:
+The output of algorithm is JSON data, looks like:
 
 
 ```
@@ -134,7 +134,7 @@ The algorithm output JSON data for visualization, looks like:
     ]
 }
 ```
-visualize the above JSON data by visualization library (such as [Echarts](https://ecomfe.github.io/echarts-doc/public/en/index.html), [vega-lite](https://github.com/vega/vega-lite)), and get a visualization like:
+We can visualize the above JSON data by visualization library (such as [Echarts](https://ecomfe.github.io/echarts-doc/public/en/index.html), [vega-lite](https://github.com/vega/vega-lite)), and get a visualization likes:
 ![Visualize above JSON data](img.png)
 
 Publications
@@ -150,4 +150,4 @@ Contributors
 |2|[Nan Tang](http://da.qcri.org/ntang/index.html)|Senior Scientist, Qatar Computing Research Institute|ntang@hbku.edu.qa
 |3|Xuedi Qin| PhD Candidate, Tsinghua University| qxd17@mails.tsinghua.edu.cn
 |4|Yuyu Luo| M.S. Student, Tsinghua University| luoyuyu@tsinghua.edu.cn
-##### If you have any questions about it, please feel free to contact Yuyu Luo (luoyuyu@tsinghua.edu.cn)
+##### If you have any questions or feedbacks about this project, please feel free to contact Yuyu Luo (luoyuyu@tsinghua.edu.cn).
