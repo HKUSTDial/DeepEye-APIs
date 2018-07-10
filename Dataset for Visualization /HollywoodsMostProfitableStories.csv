@@ -1,5 +1,4 @@
 Film,Genre,Lead Studio,Audience  score %,Profitability,Rotten Tomatoes %,Worldwide Gross,Year
-varchar(100),varchar(50),varchar(50),Int,Float,Float,Float,varchar(25)
 27 Dresses,Comedy,Fox,71,5.34,40,160.31,2008
 (500) Days of Summer,Comedy,Fox,81,8.1,87,60.72,2009
 A Dangerous Method,Drama,Independent,89,0.45,79,8.97,2011

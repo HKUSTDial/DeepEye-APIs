@@ -1,5 +1,4 @@
 Nationality,Continent,Purpose,Total(million)
-VARCHAR(20),VARCHAR(10),VARCHAR(20),FLOAT
 Japan,Asia,Business,77.81
 Japan,Asia,Trip,39.28
 Japan,Asia,Visting Relatives,5.35

@@ -1,5 +1,4 @@
 birth_year,gender,ethnicity,name,number,rank
-date,varchar(20),varchar(100),varchar(30),int,int
 2011,FEMALE,HISPANIC,GERALDINE,13,75
 2011,FEMALE,HISPANIC,GIA,21,67
 2011,FEMALE,HISPANIC,GIANNA,49,42
