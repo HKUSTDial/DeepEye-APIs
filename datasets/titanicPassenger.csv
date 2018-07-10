@@ -1,0 +1,892 @@
+PassengerId,TicketNumber,Cabin,Pclass,Sex,Embarked,Survived,Age,Age_bucket,TicketFare(pound)
+1,A/5 21171,,class3,male,Southampton,dead,22,(20_30],7.25
+2,PC 17599,C85,class1,female,Cherbourgherbourg,survival,38,(30_40],71.2833
+3,STON/O2. 3101282,,class3,female,Southampton,survival,26,(20_30],7.925
+4,113803,C123,class1,female,Southampton,survival,35,(30_40],53.1
+5,373450,,class3,male,Southampton,dead,35,(30_40],8.05
+6,330877,,class3,male,Queenstown,dead,0,NA,8.4583
+7,17463,E46,class1,male,Southampton,dead,54,(50_60],51.8625
+8,349909,,class3,male,Southampton,dead,2,(0_10],21.075
+9,347742,,class3,female,Southampton,survival,27,(20_30],11.1333
+10,237736,,class2,female,Cherbourgherbourg,survival,14,(10_20],30.0708
+11,PP 9549,G6,class3,female,Southampton,survival,4,(0_10],16.7
+12,113783,C103,class1,female,Southampton,survival,58,(50_60],26.55
+13,A/5. 2151,,class3,male,Southampton,dead,20,(10_20],8.05
+14,347082,,class3,male,Southampton,dead,39,(30_40],31.275
+15,350406,,class3,female,Southampton,dead,14,(10_20],7.8542
+16,248706,,class2,female,Southampton,survival,55,(50_60],16
+17,382652,,class3,male,Queenstown,dead,2,(0_10],29.125
+18,244373,,class2,male,Southampton,survival,0,NA,13
+19,345763,,class3,female,Southampton,dead,31,(30_40],18
+20,2649,,class3,female,Cherbourgherbourg,survival,0,NA,7.225
+21,239865,,class2,male,Southampton,dead,35,(30_40],26
+22,248698,D56,class2,male,Southampton,survival,34,(30_40],13
+23,330923,,class3,female,Queenstown,survival,15,(10_20],8.0292
+24,113788,A6,class1,male,Southampton,survival,28,(20_30],35.5
+25,349909,,class3,female,Southampton,dead,8,(0_10],21.075
+26,347077,,class3,female,Southampton,survival,38,(30_40],31.3875
+27,2631,,class3,male,Cherbourgherbourg,dead,0,NA,7.225
+28,19950,C23 C25 C27,class1,male,Southampton,dead,19,(10_20],263
+29,330959,,class3,female,Queenstown,survival,0,NA,7.8792
+30,349216,,class3,male,Southampton,dead,0,NA,7.8958
+31,PC 17601,,class1,male,Cherbourgherbourg,dead,40,(30_40],27.7208
+32,PC 17569,B78,class1,female,Cherbourgherbourg,survival,0,NA,146.5208
+33,335677,,class3,female,Queenstown,survival,0,NA,7.75
+34,C.A. 24579,,class2,male,Southampton,dead,66,NA,10.5
+35,PC 17604,,class1,male,Cherbourgherbourg,dead,28,(20_30],82.1708
+36,113789,,class1,male,Southampton,dead,42,(40_50],52
+37,2677,,class3,male,Cherbourgherbourg,survival,0,NA,7.2292
+38,A./5. 2152,,class3,male,Southampton,dead,21,(20_30],8.05
+39,345764,,class3,female,Southampton,dead,18,(10_20],18
+40,2651,,class3,female,Cherbourgherbourg,survival,14,(10_20],11.2417
+41,7546,,class3,female,Southampton,dead,40,(30_40],9.475
+42,11668,,class2,female,Southampton,dead,27,(20_30],21
+43,349253,,class3,male,Cherbourgherbourg,dead,0,NA,7.8958
+44,SC/Paris 2123,,class2,female,Cherbourgherbourg,survival,3,(0_10],41.5792
+45,330958,,class3,female,Queenstown,survival,19,(10_20],7.8792
+46,S.C./A.4. 23567,,class3,male,Southampton,dead,0,NA,8.05
+47,370371,,class3,male,Queenstown,dead,0,NA,15.5
+48,14311,,class3,female,Queenstown,survival,0,NA,7.75
+49,2662,,class3,male,Cherbourgherbourg,dead,0,NA,21.6792
+50,349237,,class3,female,Southampton,dead,18,(10_20],17.8
+51,3101295,,class3,male,Southampton,dead,7,(0_10],39.6875
+52,A/4. 39886,,class3,male,Southampton,dead,21,(20_30],7.8
+53,PC 17572,D33,class1,female,Cherbourgherbourg,survival,49,(40_50],76.7292
+54,2926,,class2,female,Southampton,survival,29,(20_30],26
+55,113509,B30,class1,male,Cherbourgherbourg,dead,65,NA,61.9792
+56,19947,C52,class1,male,Southampton,survival,0,NA,35.5
+57,C.A. 31026,,class2,female,Southampton,survival,21,(20_30],10.5
+58,2697,,class3,male,Cherbourgherbourg,dead,28.5,(20_30],7.2292
+59,C.A. 34651,,class2,female,Southampton,survival,5,(0_10],27.75
+60,CA 2144,,class3,male,Southampton,dead,11,(10_20],46.9
+61,2669,,class3,male,Cherbourgherbourg,dead,22,(20_30],7.2292
+62,113572,B28,class1,female,null,survival,38,(30_40],80
+63,36973,C83,class1,male,Southampton,dead,45,(40_50],83.475
+64,347088,,class3,male,Southampton,dead,4,(0_10],27.9
+65,PC 17605,,class1,male,Cherbourgherbourg,dead,0,NA,27.7208
+66,2661,,class3,male,Cherbourgherbourg,survival,0,NA,15.2458
+67,C.A. 29395,F33,class2,female,Southampton,survival,29,(20_30],10.5
+68,S.P. 3464,,class3,male,Southampton,dead,19,(10_20],8.1583
+69,3101281,,class3,female,Southampton,survival,17,(10_20],7.925
+70,315151,,class3,male,Southampton,dead,26,(20_30],8.6625
+71,C.A. 33111,,class2,male,Southampton,dead,32,(30_40],10.5
+72,CA 2144,,class3,female,Southampton,dead,16,(10_20],46.9
+73,S.O.C. 14879,,class2,male,Southampton,dead,21,(20_30],73.5
+74,2680,,class3,male,Cherbourgherbourg,dead,26,(20_30],14.4542
+75,1601,,class3,male,Southampton,survival,32,(30_40],56.4958
+76,348123,F G73,class3,male,Southampton,dead,25,(20_30],7.65
+77,349208,,class3,male,Southampton,dead,0,NA,7.8958
+78,374746,,class3,male,Southampton,dead,0,NA,8.05
+79,248738,,class2,male,Southampton,survival,0.83,(0_10],29
+80,364516,,class3,female,Southampton,survival,30,(20_30],12.475
+81,345767,,class3,male,Southampton,dead,22,(20_30],9
+82,345779,,class3,male,Southampton,survival,29,(20_30],9.5
+83,330932,,class3,female,Queenstown,survival,0,NA,7.7875
+84,113059,,class1,male,Southampton,dead,28,(20_30],47.1
+85,SO/C 14885,,class2,female,Southampton,survival,17,(10_20],10.5
+86,3101278,,class3,female,Southampton,survival,33,(30_40],15.85
+87,W./C. 6608,,class3,male,Southampton,dead,16,(10_20],34.375
+88,SOTON/OQ 392086,,class3,male,Southampton,dead,0,NA,8.05
+89,19950,C23 C25 C27,class1,female,Southampton,survival,23,(20_30],263
+90,343275,,class3,male,Southampton,dead,24,(20_30],8.05
+91,343276,,class3,male,Southampton,dead,29,(20_30],8.05
+92,347466,,class3,male,Southampton,dead,20,(10_20],7.8542
+93,W.E.P. 5734,E31,class1,male,Southampton,dead,46,(40_50],61.175
+94,C.A. 2315,,class3,male,Southampton,dead,26,(20_30],20.575
+95,364500,,class3,male,Southampton,dead,59,(50_60],7.25
+96,374910,,class3,male,Southampton,dead,0,NA,8.05
+97,PC 17754,A5,class1,male,Cherbourgherbourg,dead,71,NA,34.6542
+98,PC 17759,D10 D12,class1,male,Cherbourgherbourg,survival,23,(20_30],63.3583
+99,231919,,class2,female,Southampton,survival,34,(30_40],23
+100,244367,,class2,male,Southampton,dead,34,(30_40],26
+101,349245,,class3,female,Southampton,dead,28,(20_30],7.8958
+102,349215,,class3,male,Southampton,dead,0,NA,7.8958
+103,35281,D26,class1,male,Southampton,dead,21,(20_30],77.2875
+104,7540,,class3,male,Southampton,dead,33,(30_40],8.6542
+105,3101276,,class3,male,Southampton,dead,37,(30_40],7.925
+106,349207,,class3,male,Southampton,dead,28,(20_30],7.8958
+107,343120,,class3,female,Southampton,survival,21,(20_30],7.65
+108,312991,,class3,male,Southampton,survival,0,NA,7.775
+109,349249,,class3,male,Southampton,dead,38,(30_40],7.8958
+110,371110,,class3,female,Queenstown,survival,0,NA,24.15
+111,110465,C110,class1,male,Southampton,dead,47,(40_50],52
+112,2665,,class3,female,Cherbourgherbourg,dead,14.5,(10_20],14.4542
+113,324669,,class3,male,Southampton,dead,22,(20_30],8.05
+114,4136,,class3,female,Southampton,dead,20,(10_20],9.825
+115,2627,,class3,female,Cherbourgherbourg,dead,17,(10_20],14.4583
+116,STON/O 2. 3101294,,class3,male,Southampton,dead,21,(20_30],7.925
+117,370369,,class3,male,Queenstown,dead,70.5,NA,7.75
+118,11668,,class2,male,Southampton,dead,29,(20_30],21
+119,PC 17558,B58 B60,class1,male,Cherbourgherbourg,dead,24,(20_30],247.5208
+120,347082,,class3,female,Southampton,dead,2,(0_10],31.275
+121,S.O.C. 14879,,class2,male,Southampton,dead,21,(20_30],73.5
+122,A4. 54510,,class3,male,Southampton,dead,0,NA,8.05
+123,237736,,class2,male,Cherbourgherbourg,dead,32.5,(30_40],30.0708
+124,27267,E101,class2,female,Southampton,survival,32.5,(30_40],13
+125,35281,D26,class1,male,Southampton,dead,54,(50_60],77.2875
+126,2651,,class3,male,Cherbourgherbourg,survival,12,(10_20],11.2417
+127,370372,,class3,male,Queenstown,dead,0,NA,7.75
+128,C 17369,,class3,male,Southampton,survival,24,(20_30],7.1417
+129,2668,F E69,class3,female,Cherbourgherbourg,survival,0,NA,22.3583
+130,347061,,class3,male,Southampton,dead,45,(40_50],6.975
+131,349241,,class3,male,Cherbourgherbourg,dead,33,(30_40],7.8958
+132,SOTON/O.Q. 3101307,,class3,male,Southampton,dead,20,(10_20],7.05
+133,A/5. 3337,,class3,female,Southampton,dead,47,(40_50],14.5
+134,228414,,class2,female,Southampton,survival,29,(20_30],26
+135,C.A. 29178,,class2,male,Southampton,dead,25,(20_30],13
+136,SC/PARIS 2133,,class2,male,Cherbourgherbourg,dead,23,(20_30],15.0458
+137,11752,D47,class1,female,Southampton,survival,19,(10_20],26.2833
+138,113803,C123,class1,male,Southampton,dead,37,(30_40],53.1
+139,7534,,class3,male,Southampton,dead,16,(10_20],9.2167
+140,PC 17593,B86,class1,male,Cherbourgherbourg,dead,24,(20_30],79.2
+141,2678,,class3,female,Cherbourgherbourg,dead,0,NA,15.2458
+142,347081,,class3,female,Southampton,survival,22,(20_30],7.75
+143,STON/O2. 3101279,,class3,female,Southampton,survival,24,(20_30],15.85
+144,365222,,class3,male,Queenstown,dead,19,(10_20],6.75
+145,231945,,class2,male,Southampton,dead,18,(10_20],11.5
+146,C.A. 33112,,class2,male,Southampton,dead,19,(10_20],36.75
+147,350043,,class3,male,Southampton,survival,27,(20_30],7.7958
+148,W./C. 6608,,class3,female,Southampton,dead,9,(0_10],34.375
+149,230080,F2,class2,male,Southampton,dead,36.5,(30_40],26
+150,244310,,class2,male,Southampton,dead,42,(40_50],13
+151,S.O.P. 1166,,class2,male,Southampton,dead,51,(50_60],12.525
+152,113776,C2,class1,female,Southampton,survival,22,(20_30],66.6
+153,A.5. 11206,,class3,male,Southampton,dead,55.5,(50_60],8.05
+154,A/5. 851,,class3,male,Southampton,dead,40.5,(40_50],14.5
+155,Fa 265302,,class3,male,Southampton,dead,0,NA,7.3125
+156,PC 17597,,class1,male,Cherbourgherbourg,dead,51,(50_60],61.3792
+157,35851,,class3,female,Queenstown,survival,16,(10_20],7.7333
+158,SOTON/OQ 392090,,class3,male,Southampton,dead,30,(20_30],8.05
+159,315037,,class3,male,Southampton,dead,0,NA,8.6625
+160,CA. 2343,,class3,male,Southampton,dead,0,NA,69.55
+161,371362,,class3,male,Southampton,dead,44,(40_50],16.1
+162,C.A. 33595,,class2,female,Southampton,survival,40,(30_40],15.75
+163,347068,,class3,male,Southampton,dead,26,(20_30],7.775
+164,315093,,class3,male,Southampton,dead,17,(10_20],8.6625
+165,3101295,,class3,male,Southampton,dead,1,(0_10],39.6875
+166,363291,,class3,male,Southampton,survival,9,(0_10],20.525
+167,113505,E33,class1,female,Southampton,survival,0,NA,55
+168,347088,,class3,female,Southampton,dead,45,(40_50],27.9
+169,PC 17318,,class1,male,Southampton,dead,0,NA,25.925
+170,1601,,class3,male,Southampton,dead,28,(20_30],56.4958
+171,111240,B19,class1,male,Southampton,dead,61,NA,33.5
+172,382652,,class3,male,Queenstown,dead,4,(0_10],29.125
+173,347742,,class3,female,Southampton,survival,1,(0_10],11.1333
+174,STON/O 2. 3101280,,class3,male,Southampton,dead,21,(20_30],7.925
+175,17764,A7,class1,male,Cherbourgherbourg,dead,56,(50_60],30.6958
+176,350404,,class3,male,Southampton,dead,18,(10_20],7.8542
+177,4133,,class3,male,Southampton,dead,0,NA,25.4667
+178,PC 17595,C49,class1,female,Cherbourgherbourg,dead,50,(40_50],28.7125
+179,250653,,class2,male,Southampton,dead,30,(20_30],13
+180,LINE,,class3,male,Southampton,dead,36,(30_40],0
+181,CA. 2343,,class3,female,Southampton,dead,0,NA,69.55
+182,SC/PARIS 2131,,class2,male,Cherbourgherbourg,dead,0,NA,15.05
+183,347077,,class3,male,Southampton,dead,9,(0_10],31.3875
+184,230136,F4,class2,male,Southampton,survival,1,(0_10],39
+185,315153,,class3,female,Southampton,survival,4,(0_10],22.025
+186,113767,A32,class1,male,Southampton,dead,0,NA,50
+187,370365,,class3,female,Queenstown,survival,0,NA,15.5
+188,111428,,class1,male,Southampton,survival,45,(40_50],26.55
+189,364849,,class3,male,Queenstown,dead,40,(30_40],15.5
+190,349247,,class3,male,Southampton,dead,36,(30_40],7.8958
+191,234604,,class2,female,Southampton,survival,32,(30_40],13
+192,28424,,class2,male,Southampton,dead,19,(10_20],13
+193,350046,,class3,female,Southampton,survival,19,(10_20],7.8542
+194,230080,F2,class2,male,Southampton,survival,3,(0_10],26
+195,PC 17610,B4,class1,female,Cherbourgherbourg,survival,44,(40_50],27.7208
+196,PC 17569,B80,class1,female,Cherbourgherbourg,survival,58,(50_60],146.5208
+197,368703,,class3,male,Queenstown,dead,0,NA,7.75
+198,4579,,class3,male,Southampton,dead,42,(40_50],8.4042
+199,370370,,class3,female,Queenstown,survival,0,NA,7.75
+200,248747,,class2,female,Southampton,dead,24,(20_30],13
+201,345770,,class3,male,Southampton,dead,28,(20_30],9.5
+202,CA. 2343,,class3,male,Southampton,dead,0,NA,69.55
+203,3101264,,class3,male,Southampton,dead,34,(30_40],6.4958
+204,2628,,class3,male,Cherbourgherbourg,dead,45.5,(40_50],7.225
+205,A/5 3540,,class3,male,Southampton,survival,18,(10_20],8.05
+206,347054,G6,class3,female,Southampton,dead,2,(0_10],10.4625
+207,3101278,,class3,male,Southampton,dead,32,(30_40],15.85
+208,2699,,class3,male,Cherbourgherbourg,survival,26,(20_30],18.7875
+209,367231,,class3,female,Queenstown,survival,16,(10_20],7.75
+210,112277,A31,class1,male,Cherbourgherbourg,survival,40,(30_40],31
+211,SOTON/O.Q. 3101311,,class3,male,Southampton,dead,24,(20_30],7.05
+212,F.C.C. 13528,,class2,female,Southampton,survival,35,(30_40],21
+213,A/5 21174,,class3,male,Southampton,dead,22,(20_30],7.25
+214,250646,,class2,male,Southampton,dead,30,(20_30],13
+215,367229,,class3,male,Queenstown,dead,0,NA,7.75
+216,35273,D36,class1,female,Cherbourgherbourg,survival,31,(30_40],113.275
+217,STON/O2. 3101283,,class3,female,Southampton,survival,27,(20_30],7.925
+218,243847,,class2,male,Southampton,dead,42,(40_50],27
+219,11813,D15,class1,female,Cherbourgherbourg,survival,32,(30_40],76.2917
+220,W/C 14208,,class2,male,Southampton,dead,30,(20_30],10.5
+221,SOTON/OQ 392089,,class3,male,Southampton,survival,16,(10_20],8.05
+222,220367,,class2,male,Southampton,dead,27,(20_30],13
+223,21440,,class3,male,Southampton,dead,51,(50_60],8.05
+224,349234,,class3,male,Southampton,dead,0,NA,7.8958
+225,19943,C93,class1,male,Southampton,survival,38,(30_40],90
+226,PP 4348,,class3,male,Southampton,dead,22,(20_30],9.35
+227,SW/PP 751,,class2,male,Southampton,survival,19,(10_20],10.5
+228,A/5 21173,,class3,male,Southampton,dead,20.5,(20_30],7.25
+229,236171,,class2,male,Southampton,dead,18,(10_20],13
+230,4133,,class3,female,Southampton,dead,0,NA,25.4667
+231,36973,C83,class1,female,Southampton,survival,35,(30_40],83.475
+232,347067,,class3,male,Southampton,dead,29,(20_30],7.775
+233,237442,,class2,male,Southampton,dead,59,(50_60],13.5
+234,347077,,class3,female,Southampton,survival,5,(0_10],31.3875
+235,C.A. 29566,,class2,male,Southampton,dead,24,(20_30],10.5
+236,W./C. 6609,,class3,female,Southampton,dead,0,NA,7.55
+237,26707,,class2,male,Southampton,dead,44,(40_50],26
+238,C.A. 31921,,class2,female,Southampton,survival,8,(0_10],26.25
+239,28665,,class2,male,Southampton,dead,19,(10_20],10.5
+240,SCO/W 1585,,class2,male,Southampton,dead,33,(30_40],12.275
+241,2665,,class3,female,Cherbourgherbourg,dead,0,NA,14.4542
+242,367230,,class3,female,Queenstown,survival,0,NA,15.5
+243,W./C. 14263,,class2,male,Southampton,dead,29,(20_30],10.5
+244,STON/O 2. 3101275,,class3,male,Southampton,dead,22,(20_30],7.125
+245,2694,,class3,male,Cherbourgherbourg,dead,30,(20_30],7.225
+246,19928,C78,class1,male,Queenstown,dead,44,(40_50],90
+247,347071,,class3,female,Southampton,dead,25,(20_30],7.775
+248,250649,,class2,female,Southampton,survival,24,(20_30],14.5
+249,11751,D35,class1,male,Southampton,survival,37,(30_40],52.5542
+250,244252,,class2,male,Southampton,dead,54,(50_60],26
+251,362316,,class3,male,Southampton,dead,0,NA,7.25
+252,347054,G6,class3,female,Southampton,dead,29,(20_30],10.4625
+253,113514,C87,class1,male,Southampton,dead,62,NA,26.55
+254,A/5. 3336,,class3,male,Southampton,dead,30,(20_30],16.1
+255,370129,,class3,female,Southampton,dead,41,(40_50],20.2125
+256,2650,,class3,female,Cherbourgherbourg,survival,29,(20_30],15.2458
+257,PC 17585,,class1,female,Cherbourgherbourg,survival,0,NA,79.2
+258,110152,B77,class1,female,Southampton,survival,30,(20_30],86.5
+259,PC 17755,,class1,female,Cherbourgherbourg,survival,35,(30_40],512.3292
+260,230433,,class2,female,Southampton,survival,50,(40_50],26
+261,384461,,class3,male,Queenstown,dead,0,NA,7.75
+262,347077,,class3,male,Southampton,survival,3,(0_10],31.3875
+263,110413,E67,class1,male,Southampton,dead,52,(50_60],79.65
+264,112059,B94,class1,male,Southampton,dead,40,(30_40],0
+265,382649,,class3,female,Queenstown,dead,0,NA,7.75
+266,C.A. 17248,,class2,male,Southampton,dead,36,(30_40],10.5
+267,3101295,,class3,male,Southampton,dead,16,(10_20],39.6875
+268,347083,,class3,male,Southampton,survival,25,(20_30],7.775
+269,PC 17582,C125,class1,female,Southampton,survival,58,(50_60],153.4625
+270,PC 17760,C99,class1,female,Southampton,survival,35,(30_40],135.6333
+271,113798,,class1,male,Southampton,dead,0,NA,31
+272,LINE,,class3,male,Southampton,survival,25,(20_30],0
+273,250644,,class2,female,Southampton,survival,41,(40_50],19.5
+274,PC 17596,C118,class1,male,Cherbourgherbourg,dead,37,(30_40],29.7
+275,370375,,class3,female,Queenstown,survival,0,NA,7.75
+276,13502,D7,class1,female,Southampton,survival,63,NA,77.9583
+277,347073,,class3,female,Southampton,dead,45,(40_50],7.75
+278,239853,,class2,male,Southampton,dead,0,NA,0
+279,382652,,class3,male,Queenstown,dead,7,(0_10],29.125
+280,C.A. 2673,,class3,female,Southampton,survival,35,(30_40],20.25
+281,336439,,class3,male,Queenstown,dead,65,NA,7.75
+282,347464,,class3,male,Southampton,dead,28,(20_30],7.8542
+283,345778,,class3,male,Southampton,dead,16,(10_20],9.5
+284,A/5. 10482,,class3,male,Southampton,survival,19,(10_20],8.05
+285,113056,A19,class1,male,Southampton,dead,0,NA,26
+286,349239,,class3,male,Cherbourgherbourg,dead,33,(30_40],8.6625
+287,345774,,class3,male,Southampton,survival,30,(20_30],9.5
+288,349206,,class3,male,Southampton,dead,22,(20_30],7.8958
+289,237798,,class2,male,Southampton,survival,42,(40_50],13
+290,370373,,class3,female,Queenstown,survival,22,(20_30],7.75
+291,19877,,class1,female,Southampton,survival,26,(20_30],78.85
+292,11967,B49,class1,female,Cherbourgherbourg,survival,19,(10_20],91.0792
+293,SC/Paris 2163,D,class2,male,Cherbourgherbourg,dead,36,(30_40],12.875
+294,349236,,class3,female,Southampton,dead,24,(20_30],8.85
+295,349233,,class3,male,Southampton,dead,24,(20_30],7.8958
+296,PC 17612,,class1,male,Cherbourgherbourg,dead,0,NA,27.7208
+297,2693,,class3,male,Cherbourgherbourg,dead,23.5,(20_30],7.2292
+298,113781,C22 C26,class1,female,Southampton,dead,2,(0_10],151.55
+299,19988,C106,class1,male,Southampton,survival,0,NA,30.5
+300,PC 17558,B58 B60,class1,female,Cherbourgherbourg,survival,50,(40_50],247.5208
+301,9234,,class3,female,Queenstown,survival,0,NA,7.75
+302,367226,,class3,male,Queenstown,survival,0,NA,23.25
+303,LINE,,class3,male,Southampton,dead,19,(10_20],0
+304,226593,E101,class2,female,Queenstown,survival,0,NA,12.35
+305,A/5 2466,,class3,male,Southampton,dead,0,NA,8.05
+306,113781,C22 C26,class1,male,Southampton,survival,0.92,(0_10],151.55
+307,17421,,class1,female,Cherbourgherbourg,survival,0,NA,110.8833
+308,PC 17758,C65,class1,female,Cherbourgherbourg,survival,17,(10_20],108.9
+309,P/PP 3381,,class2,male,Cherbourgherbourg,dead,30,(20_30],24
+310,PC 17485,E36,class1,female,Cherbourgherbourg,survival,30,(20_30],56.9292
+311,11767,C54,class1,female,Cherbourgherbourg,survival,24,(20_30],83.1583
+312,PC 17608,B57 B59 B63 B66,class1,female,Cherbourgherbourg,survival,18,(10_20],262.375
+313,250651,,class2,female,Southampton,dead,26,(20_30],26
+314,349243,,class3,male,Southampton,dead,28,(20_30],7.8958
+315,F.C.C. 13529,,class2,male,Southampton,dead,43,(40_50],26.25
+316,347470,,class3,female,Southampton,survival,26,(20_30],7.8542
+317,244367,,class2,female,Southampton,survival,24,(20_30],26
+318,29011,,class2,male,Southampton,dead,54,(50_60],14
+319,36928,C7,class1,female,Southampton,survival,31,(30_40],164.8667
+320,16966,E34,class1,female,Cherbourgherbourg,survival,40,(30_40],134.5
+321,A/5 21172,,class3,male,Southampton,dead,22,(20_30],7.25
+322,349219,,class3,male,Southampton,dead,27,(20_30],7.8958
+323,234818,,class2,female,Queenstown,survival,30,(20_30],12.35
+324,248738,,class2,female,Southampton,survival,22,(20_30],29
+325,CA. 2343,,class3,male,Southampton,dead,0,NA,69.55
+326,PC 17760,C32,class1,female,Cherbourgherbourg,survival,36,(30_40],135.6333
+327,345364,,class3,male,Southampton,dead,61,NA,6.2375
+328,28551,D,class2,female,Southampton,survival,36,(30_40],13
+329,363291,,class3,female,Southampton,survival,31,(30_40],20.525
+330,111361,B18,class1,female,Cherbourgherbourg,survival,16,(10_20],57.9792
+331,367226,,class3,female,Queenstown,survival,0,NA,23.25
+332,113043,C124,class1,male,Southampton,dead,45.5,(40_50],28.5
+333,PC 17582,C91,class1,male,Southampton,dead,38,(30_40],153.4625
+334,345764,,class3,male,Southampton,dead,16,(10_20],18
+335,PC 17611,,class1,female,Southampton,survival,0,NA,133.65
+336,349225,,class3,male,Southampton,dead,0,NA,7.8958
+337,113776,C2,class1,male,Southampton,dead,29,(20_30],66.6
+338,16966,E40,class1,female,Cherbourgherbourg,survival,41,(40_50],134.5
+339,7598,,class3,male,Southampton,survival,45,(40_50],8.05
+340,113784,T,class1,male,Southampton,dead,45,(40_50],35.5
+341,230080,F2,class2,male,Southampton,survival,2,(0_10],26
+342,19950,C23 C25 C27,class1,female,Southampton,survival,24,(20_30],263
+343,248740,,class2,male,Southampton,dead,28,(20_30],13
+344,244361,,class2,male,Southampton,dead,25,(20_30],13
+345,229236,,class2,male,Southampton,dead,36,(30_40],13
+346,248733,F33,class2,female,Southampton,survival,24,(20_30],13
+347,31418,,class2,female,Southampton,survival,40,(30_40],13
+348,386525,,class3,female,Southampton,survival,0,NA,16.1
+349,C.A. 37671,,class3,male,Southampton,survival,3,(0_10],15.9
+350,315088,,class3,male,Southampton,dead,42,(40_50],8.6625
+351,7267,,class3,male,Southampton,dead,23,(20_30],9.225
+352,113510,C128,class1,male,Southampton,dead,0,NA,35
+353,2695,,class3,male,Cherbourgherbourg,dead,15,(10_20],7.2292
+354,349237,,class3,male,Southampton,dead,25,(20_30],17.8
+355,2647,,class3,male,Cherbourgherbourg,dead,0,NA,7.225
+356,345783,,class3,male,Southampton,dead,28,(20_30],9.5
+357,113505,E33,class1,female,Southampton,survival,22,(20_30],55
+358,237671,,class2,female,Southampton,dead,38,(30_40],13
+359,330931,,class3,female,Queenstown,survival,0,NA,7.8792
+360,330980,,class3,female,Queenstown,survival,0,NA,7.8792
+361,347088,,class3,male,Southampton,dead,40,(30_40],27.9
+362,SC/PARIS 2167,,class2,male,Cherbourgherbourg,dead,29,(20_30],27.7208
+363,2691,,class3,female,Cherbourgherbourg,dead,45,(40_50],14.4542
+364,SOTON/O.Q. 3101310,,class3,male,Southampton,dead,35,(30_40],7.05
+365,370365,,class3,male,Queenstown,dead,0,NA,15.5
+366,C 7076,,class3,male,Southampton,dead,30,(20_30],7.25
+367,110813,D37,class1,female,Cherbourgherbourg,survival,60,(50_60],75.25
+368,2626,,class3,female,Cherbourgherbourg,survival,0,NA,7.2292
+369,14313,,class3,female,Queenstown,survival,0,NA,7.75
+370,PC 17477,B35,class1,female,Cherbourgherbourg,survival,24,(20_30],69.3
+371,11765,E50,class1,male,Cherbourgherbourg,survival,25,(20_30],55.4417
+372,3101267,,class3,male,Southampton,dead,18,(10_20],6.4958
+373,323951,,class3,male,Southampton,dead,19,(10_20],8.05
+374,PC 17760,,class1,male,Cherbourgherbourg,dead,22,(20_30],135.6333
+375,349909,,class3,female,Southampton,dead,3,(0_10],21.075
+376,PC 17604,,class1,female,Cherbourgherbourg,survival,0,NA,82.1708
+377,C 7077,,class3,female,Southampton,survival,22,(20_30],7.25
+378,113503,C82,class1,male,Cherbourgherbourg,dead,27,(20_30],211.5
+379,2648,,class3,male,Cherbourgherbourg,dead,20,(10_20],4.0125
+380,347069,,class3,male,Southampton,dead,19,(10_20],7.775
+381,PC 17757,,class1,female,Cherbourgherbourg,survival,42,(40_50],227.525
+382,2653,,class3,female,Cherbourgherbourg,survival,1,(0_10],15.7417
+383,STON/O 2. 3101293,,class3,male,Southampton,dead,32,(30_40],7.925
+384,113789,,class1,female,Southampton,survival,35,(30_40],52
+385,349227,,class3,male,Southampton,dead,0,NA,7.8958
+386,S.O.C. 14879,,class2,male,Southampton,dead,18,(10_20],73.5
+387,CA 2144,,class3,male,Southampton,dead,1,(0_10],46.9
+388,27849,,class2,female,Southampton,survival,36,(30_40],13
+389,367655,,class3,male,Queenstown,dead,0,NA,7.7292
+390,SC 1748,,class2,female,Cherbourgherbourg,survival,17,(10_20],12
+391,113760,B96 B98,class1,male,Southampton,survival,36,(30_40],120
+392,350034,,class3,male,Southampton,survival,21,(20_30],7.7958
+393,3101277,,class3,male,Southampton,dead,28,(20_30],7.925
+394,35273,D36,class1,female,Cherbourgherbourg,survival,23,(20_30],113.275
+395,PP 9549,G6,class3,female,Southampton,survival,24,(20_30],16.7
+396,350052,,class3,male,Southampton,dead,22,(20_30],7.7958
+397,350407,,class3,female,Southampton,dead,31,(30_40],7.8542
+398,28403,,class2,male,Southampton,dead,46,(40_50],26
+399,244278,,class2,male,Southampton,dead,23,(20_30],10.5
+400,240929,,class2,female,Southampton,survival,28,(20_30],12.65
+401,STON/O 2. 3101289,,class3,male,Southampton,survival,39,(30_40],7.925
+402,341826,,class3,male,Southampton,dead,26,(20_30],8.05
+403,4137,,class3,female,Southampton,dead,21,(20_30],9.825
+404,STON/O2. 3101279,,class3,male,Southampton,dead,28,(20_30],15.85
+405,315096,,class3,female,Southampton,dead,20,(10_20],8.6625
+406,28664,,class2,male,Southampton,dead,34,(30_40],21
+407,347064,,class3,male,Southampton,dead,51,(50_60],7.75
+408,29106,,class2,male,Southampton,survival,3,(0_10],18.75
+409,312992,,class3,male,Southampton,dead,21,(20_30],7.775
+410,4133,,class3,female,Southampton,dead,0,NA,25.4667
+411,349222,,class3,male,Southampton,dead,0,NA,7.8958
+412,394140,,class3,male,Queenstown,dead,0,NA,6.8583
+413,19928,C78,class1,female,Queenstown,survival,33,(30_40],90
+414,239853,,class2,male,Southampton,dead,0,NA,0
+415,STON/O 2. 3101269,,class3,male,Southampton,survival,44,(40_50],7.925
+416,343095,,class3,female,Southampton,dead,0,NA,8.05
+417,28220,,class2,female,Southampton,survival,34,(30_40],32.5
+418,250652,,class2,female,Southampton,survival,18,(10_20],13
+419,28228,,class2,male,Southampton,dead,30,(20_30],13
+420,345773,,class3,female,Southampton,dead,10,(0_10],24.15
+421,349254,,class3,male,Cherbourgherbourg,dead,0,NA,7.8958
+422,A/5. 13032,,class3,male,Queenstown,dead,21,(20_30],7.7333
+423,315082,,class3,male,Southampton,dead,29,(20_30],7.875
+424,347080,,class3,female,Southampton,dead,28,(20_30],14.4
+425,370129,,class3,male,Southampton,dead,18,(10_20],20.2125
+426,A/4. 34244,,class3,male,Southampton,dead,0,NA,7.25
+427,2003,,class2,female,Southampton,survival,28,(20_30],26
+428,250655,,class2,female,Southampton,survival,19,(10_20],26
+429,364851,,class3,male,Queenstown,dead,0,NA,7.75
+430,SOTON/O.Q. 392078,E10,class3,male,Southampton,survival,32,(30_40],8.05
+431,110564,C52,class1,male,Southampton,survival,28,(20_30],26.55
+432,376564,,class3,female,Southampton,survival,0,NA,16.1
+433,SC/AH 3085,,class2,female,Southampton,survival,42,(40_50],26
+434,STON/O 2. 3101274,,class3,male,Southampton,dead,17,(10_20],7.125
+435,13507,E44,class1,male,Southampton,dead,50,(40_50],55.9
+436,113760,B96 B98,class1,female,Southampton,survival,14,(10_20],120
+437,W./C. 6608,,class3,female,Southampton,dead,21,(20_30],34.375
+438,29106,,class2,female,Southampton,survival,24,(20_30],18.75
+439,19950,C23 C25 C27,class1,male,Southampton,dead,64,NA,263
+440,C.A. 18723,,class2,male,Southampton,dead,31,(30_40],10.5
+441,F.C.C. 13529,,class2,female,Southampton,survival,45,(40_50],26.25
+442,345769,,class3,male,Southampton,dead,20,(10_20],9.5
+443,347076,,class3,male,Southampton,dead,25,(20_30],7.775
+444,230434,,class2,female,Southampton,survival,28,(20_30],13
+445,65306,,class3,male,Southampton,survival,0,NA,8.1125
+446,33638,A34,class1,male,Southampton,survival,4,(0_10],81.8583
+447,250644,,class2,female,Southampton,survival,13,(10_20],19.5
+448,113794,,class1,male,Southampton,survival,34,(30_40],26.55
+449,2666,,class3,female,Cherbourgherbourg,survival,5,(0_10],19.2583
+450,113786,C104,class1,male,Southampton,survival,52,(50_60],30.5
+451,C.A. 34651,,class2,male,Southampton,dead,36,(30_40],27.75
+452,65303,,class3,male,Southampton,dead,0,NA,19.9667
+453,113051,C111,class1,male,Cherbourgherbourg,dead,30,(20_30],27.75
+454,17453,C92,class1,male,Cherbourgherbourg,survival,49,(40_50],89.1042
+455,A/5 2817,,class3,male,Southampton,dead,0,NA,8.05
+456,349240,,class3,male,Cherbourgherbourg,survival,29,(20_30],7.8958
+457,13509,E38,class1,male,Southampton,dead,65,NA,26.55
+458,17464,D21,class1,female,Southampton,survival,0,NA,51.8625
+459,F.C.C. 13531,,class2,female,Southampton,survival,50,(40_50],10.5
+460,371060,,class3,male,Queenstown,dead,0,NA,7.75
+461,19952,E12,class1,male,Southampton,survival,48,(40_50],26.55
+462,364506,,class3,male,Southampton,dead,34,(30_40],8.05
+463,111320,E63,class1,male,Southampton,dead,47,(40_50],38.5
+464,234360,,class2,male,Southampton,dead,48,(40_50],13
+465,A/S 2816,,class3,male,Southampton,dead,0,NA,8.05
+466,SOTON/O.Q. 3101306,,class3,male,Southampton,dead,38,(30_40],7.05
+467,239853,,class2,male,Southampton,dead,0,NA,0
+468,113792,,class1,male,Southampton,dead,56,(50_60],26.55
+469,36209,,class3,male,Queenstown,dead,0,NA,7.725
+470,2666,,class3,female,Cherbourgherbourg,survival,0.75,(0_10],19.2583
+471,323592,,class3,male,Southampton,dead,0,NA,7.25
+472,315089,,class3,male,Southampton,dead,38,(30_40],8.6625
+473,C.A. 34651,,class2,female,Southampton,survival,33,(30_40],27.75
+474,SC/AH Basle 541,D,class2,female,Cherbourgherbourg,survival,23,(20_30],13.7917
+475,7553,,class3,female,Southampton,dead,22,(20_30],9.8375
+476,110465,A14,class1,male,Southampton,dead,0,NA,52
+477,31027,,class2,male,Southampton,dead,34,(30_40],21
+478,3460,,class3,male,Southampton,dead,29,(20_30],7.0458
+479,350060,,class3,male,Southampton,dead,22,(20_30],7.5208
+480,3101298,,class3,female,Southampton,survival,2,(0_10],12.2875
+481,CA 2144,,class3,male,Southampton,dead,9,(0_10],46.9
+482,239854,,class2,male,Southampton,dead,0,NA,0
+483,A/5 3594,,class3,male,Southampton,dead,50,(40_50],8.05
+484,4134,,class3,female,Southampton,survival,63,NA,9.5875
+485,11967,B49,class1,male,Cherbourgherbourg,survival,25,(20_30],91.0792
+486,4133,,class3,female,Southampton,dead,0,NA,25.4667
+487,19943,C93,class1,female,Southampton,survival,35,(30_40],90
+488,11771,B37,class1,male,Cherbourgherbourg,dead,58,(50_60],29.7
+489,A.5. 18509,,class3,male,Southampton,dead,30,(20_30],8.05
+490,C.A. 37671,,class3,male,Southampton,survival,9,(0_10],15.9
+491,65304,,class3,male,Southampton,dead,0,NA,19.9667
+492,SOTON/OQ 3101317,,class3,male,Southampton,dead,21,(20_30],7.25
+493,113787,C30,class1,male,Southampton,dead,55,(50_60],30.5
+494,PC 17609,,class1,male,Cherbourgherbourg,dead,71,NA,49.5042
+495,A/4 45380,,class3,male,Southampton,dead,21,(20_30],8.05
+496,2627,,class3,male,Cherbourgherbourg,dead,0,NA,14.4583
+497,36947,D20,class1,female,Cherbourgherbourg,survival,54,(50_60],78.2667
+498,C.A. 6212,,class3,male,Southampton,dead,0,NA,15.1
+499,113781,C22 C26,class1,female,Southampton,dead,25,(20_30],151.55
+500,350035,,class3,male,Southampton,dead,24,(20_30],7.7958
+501,315086,,class3,male,Southampton,dead,17,(10_20],8.6625
+502,364846,,class3,female,Queenstown,dead,21,(20_30],7.75
+503,330909,,class3,female,Queenstown,dead,0,NA,7.6292
+504,4135,,class3,female,Southampton,dead,37,(30_40],9.5875
+505,110152,B79,class1,female,Southampton,survival,16,(10_20],86.5
+506,PC 17758,C65,class1,male,Cherbourgherbourg,dead,18,(10_20],108.9
+507,26360,,class2,female,Southampton,survival,33,(30_40],26
+508,111427,,class1,male,Southampton,survival,0,NA,26.55
+509,C 4001,,class3,male,Southampton,dead,28,(20_30],22.525
+510,1601,,class3,male,Southampton,survival,26,(20_30],56.4958
+511,382651,,class3,male,Queenstown,survival,29,(20_30],7.75
+512,SOTON/OQ 3101316,,class3,male,Southampton,dead,0,NA,8.05
+513,PC 17473,E25,class1,male,Southampton,survival,36,(30_40],26.2875
+514,PC 17603,,class1,female,Cherbourgherbourg,survival,54,(50_60],59.4
+515,349209,,class3,male,Southampton,dead,24,(20_30],7.4958
+516,36967,D46,class1,male,Southampton,dead,47,(40_50],34.0208
+517,C.A. 34260,F33,class2,female,Southampton,survival,34,(30_40],10.5
+518,371110,,class3,male,Queenstown,dead,0,NA,24.15
+519,226875,,class2,female,Southampton,survival,36,(30_40],26
+520,349242,,class3,male,Southampton,dead,32,(30_40],7.8958
+521,12749,B73,class1,female,Southampton,survival,30,(20_30],93.5
+522,349252,,class3,male,Southampton,dead,22,(20_30],7.8958
+523,2624,,class3,male,Cherbourgherbourg,dead,0,NA,7.225
+524,111361,B18,class1,female,Cherbourgherbourg,survival,44,(40_50],57.9792
+525,2700,,class3,male,Cherbourgherbourg,dead,0,NA,7.2292
+526,367232,,class3,male,Queenstown,dead,40.5,(40_50],7.75
+527,W./C. 14258,,class2,female,Southampton,survival,50,(40_50],10.5
+528,PC 17483,C95,class1,male,Southampton,dead,0,NA,221.7792
+529,3101296,,class3,male,Southampton,dead,39,(30_40],7.925
+530,29104,,class2,male,Southampton,dead,23,(20_30],11.5
+531,26360,,class2,female,Southampton,survival,2,(0_10],26
+532,2641,,class3,male,Cherbourgherbourg,dead,0,NA,7.2292
+533,2690,,class3,male,Cherbourgherbourg,dead,17,(10_20],7.2292
+534,2668,,class3,female,Cherbourgherbourg,survival,0,NA,22.3583
+535,315084,,class3,female,Southampton,dead,30,(20_30],8.6625
+536,F.C.C. 13529,,class2,female,Southampton,survival,7,(0_10],26.25
+537,113050,B38,class1,male,Southampton,dead,45,(40_50],26.55
+538,PC 17761,,class1,female,Cherbourgherbourg,survival,30,(20_30],106.425
+539,364498,,class3,male,Southampton,dead,0,NA,14.5
+540,13568,B39,class1,female,Cherbourgherbourg,survival,22,(20_30],49.5
+541,WE/P 5735,B22,class1,female,Southampton,survival,36,(30_40],71
+542,347082,,class3,female,Southampton,dead,9,(0_10],31.275
+543,347082,,class3,female,Southampton,dead,11,(10_20],31.275
+544,2908,,class2,male,Southampton,survival,32,(30_40],26
+545,PC 17761,C86,class1,male,Cherbourgherbourg,dead,50,(40_50],106.425
+546,693,,class1,male,Southampton,dead,64,NA,26
+547,2908,,class2,female,Southampton,survival,19,(10_20],26
+548,SC/PARIS 2146,,class2,male,Cherbourgherbourg,survival,0,NA,13.8625
+549,363291,,class3,male,Southampton,dead,33,(30_40],20.525
+550,C.A. 33112,,class2,male,Southampton,survival,8,(0_10],36.75
+551,17421,C70,class1,male,Cherbourgherbourg,survival,17,(10_20],110.8833
+552,244358,,class2,male,Southampton,dead,27,(20_30],26
+553,330979,,class3,male,Queenstown,dead,0,NA,7.8292
+554,2620,,class3,male,Cherbourgherbourg,survival,22,(20_30],7.225
+555,347085,,class3,female,Southampton,survival,22,(20_30],7.775
+556,113807,,class1,male,Southampton,dead,62,NA,26.55
+557,11755,A16,class1,female,Cherbourgherbourg,survival,48,(40_50],39.6
+558,PC 17757,,class1,male,Cherbourgherbourg,dead,0,NA,227.525
+559,110413,E67,class1,female,Southampton,survival,39,(30_40],79.65
+560,345572,,class3,female,Southampton,survival,36,(30_40],17.4
+561,372622,,class3,male,Queenstown,dead,0,NA,7.75
+562,349251,,class3,male,Southampton,dead,40,(30_40],7.8958
+563,218629,,class2,male,Southampton,dead,28,(20_30],13.5
+564,SOTON/OQ 392082,,class3,male,Southampton,dead,0,NA,8.05
+565,SOTON/O.Q. 392087,,class3,female,Southampton,dead,0,NA,8.05
+566,A/4 48871,,class3,male,Southampton,dead,24,(20_30],24.15
+567,349205,,class3,male,Southampton,dead,19,(10_20],7.8958
+568,349909,,class3,female,Southampton,dead,29,(20_30],21.075
+569,2686,,class3,male,Cherbourgherbourg,dead,0,NA,7.2292
+570,350417,,class3,male,Southampton,survival,32,(30_40],7.8542
+571,S.W./PP 752,,class2,male,Southampton,survival,62,NA,10.5
+572,11769,C101,class1,female,Southampton,survival,53,(50_60],51.4792
+573,PC 17474,E25,class1,male,Southampton,survival,36,(30_40],26.3875
+574,14312,,class3,female,Queenstown,survival,0,NA,7.75
+575,A/4. 20589,,class3,male,Southampton,dead,16,(10_20],8.05
+576,358585,,class3,male,Southampton,dead,19,(10_20],14.5
+577,243880,,class2,female,Southampton,survival,34,(30_40],13
+578,13507,E44,class1,female,Southampton,survival,39,(30_40],55.9
+579,2689,,class3,female,Cherbourgherbourg,dead,0,NA,14.4583
+580,STON/O 2. 3101286,,class3,male,Southampton,survival,32,(30_40],7.925
+581,237789,,class2,female,Southampton,survival,25,(20_30],30
+582,17421,C68,class1,female,Cherbourgherbourg,survival,39,(30_40],110.8833
+583,28403,,class2,male,Southampton,dead,54,(50_60],26
+584,13049,A10,class1,male,Cherbourgherbourg,dead,36,(30_40],40.125
+585,3411,,class3,male,Cherbourgherbourg,dead,0,NA,8.7125
+586,110413,E68,class1,female,Southampton,survival,18,(10_20],79.65
+587,237565,,class2,male,Southampton,dead,47,(40_50],15
+588,13567,B41,class1,male,Cherbourgherbourg,survival,60,(50_60],79.2
+589,14973,,class3,male,Southampton,dead,22,(20_30],8.05
+590,A./5. 3235,,class3,male,Southampton,dead,0,NA,8.05
+591,STON/O 2. 3101273,,class3,male,Southampton,dead,35,(30_40],7.125
+592,36947,D20,class1,female,Cherbourgherbourg,survival,52,(50_60],78.2667
+593,A/5 3902,,class3,male,Southampton,dead,47,(40_50],7.25
+594,364848,,class3,female,Queenstown,dead,0,NA,7.75
+595,SC/AH 29037,,class2,male,Southampton,dead,37,(30_40],26
+596,345773,,class3,male,Southampton,dead,36,(30_40],24.15
+597,248727,,class2,female,Southampton,survival,0,NA,33
+598,LINE,,class3,male,Southampton,dead,49,(40_50],0
+599,2664,,class3,male,Cherbourgherbourg,dead,0,NA,7.225
+600,PC 17485,A20,class1,male,Cherbourgherbourg,survival,49,(40_50],56.9292
+601,243847,,class2,female,Southampton,survival,24,(20_30],27
+602,349214,,class3,male,Southampton,dead,0,NA,7.8958
+603,113796,,class1,male,Southampton,dead,0,NA,42.4
+604,364511,,class3,male,Southampton,dead,44,(40_50],8.05
+605,111426,,class1,male,Cherbourgherbourg,survival,35,(30_40],26.55
+606,349910,,class3,male,Southampton,dead,36,(30_40],15.55
+607,349246,,class3,male,Southampton,dead,30,(20_30],7.8958
+608,113804,,class1,male,Southampton,survival,27,(20_30],30.5
+609,SC/Paris 2123,,class2,female,Cherbourgherbourg,survival,22,(20_30],41.5792
+610,PC 17582,C125,class1,female,Southampton,survival,40,(30_40],153.4625
+611,347082,,class3,female,Southampton,dead,39,(30_40],31.275
+612,SOTON/O.Q. 3101305,,class3,male,Southampton,dead,0,NA,7.05
+613,367230,,class3,female,Queenstown,survival,0,NA,15.5
+614,370377,,class3,male,Queenstown,dead,0,NA,7.75
+615,364512,,class3,male,Southampton,dead,35,(30_40],8.05
+616,220845,,class2,female,Southampton,survival,24,(20_30],65
+617,347080,,class3,male,Southampton,dead,34,(30_40],14.4
+618,A/5. 3336,,class3,female,Southampton,dead,26,(20_30],16.1
+619,230136,F4,class2,female,Southampton,survival,4,(0_10],39
+620,31028,,class2,male,Southampton,dead,26,(20_30],10.5
+621,2659,,class3,male,Cherbourgherbourg,dead,27,(20_30],14.4542
+622,11753,D19,class1,male,Southampton,survival,42,(40_50],52.5542
+623,2653,,class3,male,Cherbourgherbourg,survival,20,(10_20],15.7417
+624,350029,,class3,male,Southampton,dead,21,(20_30],7.8542
+625,54636,,class3,male,Southampton,dead,21,(20_30],16.1
+626,36963,D50,class1,male,Southampton,dead,61,NA,32.3208
+627,219533,,class2,male,Queenstown,dead,57,(50_60],12.35
+628,13502,D9,class1,female,Southampton,survival,21,(20_30],77.9583
+629,349224,,class3,male,Southampton,dead,26,(20_30],7.8958
+630,334912,,class3,male,Queenstown,dead,0,NA,7.7333
+631,27042,A23,class1,male,Southampton,survival,80,NA,30
+632,347743,,class3,male,Southampton,dead,51,(50_60],7.0542
+633,13214,B50,class1,male,Cherbourgherbourg,survival,32,(30_40],30.5
+634,112052,,class1,male,Southampton,dead,0,NA,0
+635,347088,,class3,female,Southampton,dead,9,(0_10],27.9
+636,237668,,class2,female,Southampton,survival,28,(20_30],13
+637,STON/O 2. 3101292,,class3,male,Southampton,dead,32,(30_40],7.925
+638,C.A. 31921,,class2,male,Southampton,dead,31,(30_40],26.25
+639,3101295,,class3,female,Southampton,dead,41,(40_50],39.6875
+640,376564,,class3,male,Southampton,dead,0,NA,16.1
+641,350050,,class3,male,Southampton,dead,20,(10_20],7.8542
+642,PC 17477,B35,class1,female,Cherbourgherbourg,survival,24,(20_30],69.3
+643,347088,,class3,female,Southampton,dead,2,(0_10],27.9
+644,1601,,class3,male,Southampton,survival,0,NA,56.4958
+645,2666,,class3,female,Cherbourgherbourg,survival,0.75,(0_10],19.2583
+646,PC 17572,D33,class1,male,Cherbourgherbourg,survival,48,(40_50],76.7292
+647,349231,,class3,male,Southampton,dead,19,(10_20],7.8958
+648,13213,A26,class1,male,Cherbourgherbourg,survival,56,(50_60],35.5
+649,S.O./P.P. 751,,class3,male,Southampton,dead,0,NA,7.55
+650,CA. 2314,,class3,female,Southampton,survival,23,(20_30],7.55
+651,349221,,class3,male,Southampton,dead,0,NA,7.8958
+652,231919,,class2,female,Southampton,survival,18,(10_20],23
+653,8475,,class3,male,Southampton,dead,21,(20_30],8.4333
+654,330919,,class3,female,Queenstown,survival,0,NA,7.8292
+655,365226,,class3,female,Queenstown,dead,18,(10_20],6.75
+656,S.O.C. 14879,,class2,male,Southampton,dead,24,(20_30],73.5
+657,349223,,class3,male,Southampton,dead,0,NA,7.8958
+658,364849,,class3,female,Queenstown,dead,32,(30_40],15.5
+659,29751,,class2,male,Southampton,dead,23,(20_30],13
+660,35273,D48,class1,male,Cherbourgherbourg,dead,58,(50_60],113.275
+661,PC 17611,,class1,male,Southampton,survival,50,(40_50],133.65
+662,2623,,class3,male,Cherbourgherbourg,dead,40,(30_40],7.225
+663,5727,E58,class1,male,Southampton,dead,47,(40_50],25.5875
+664,349210,,class3,male,Southampton,dead,36,(30_40],7.4958
+665,STON/O 2. 3101285,,class3,male,Southampton,survival,20,(10_20],7.925
+666,S.O.C. 14879,,class2,male,Southampton,dead,32,(30_40],73.5
+667,234686,,class2,male,Southampton,dead,25,(20_30],13
+668,312993,,class3,male,Southampton,dead,0,NA,7.775
+669,A/5 3536,,class3,male,Southampton,dead,43,(40_50],8.05
+670,19996,C126,class1,female,Southampton,survival,0,NA,52
+671,29750,,class2,female,Southampton,survival,40,(30_40],39
+672,F.C. 12750,B71,class1,male,Southampton,dead,31,(30_40],52
+673,C.A. 24580,,class2,male,Southampton,dead,70,NA,10.5
+674,244270,,class2,male,Southampton,survival,31,(30_40],13
+675,239856,,class2,male,Southampton,dead,0,NA,0
+676,349912,,class3,male,Southampton,dead,18,(10_20],7.775
+677,342826,,class3,male,Southampton,dead,24.5,(20_30],8.05
+678,4138,,class3,female,Southampton,survival,18,(10_20],9.8417
+679,CA 2144,,class3,female,Southampton,dead,43,(40_50],46.9
+680,PC 17755,B51 B53 B55,class1,male,Cherbourgherbourg,survival,36,(30_40],512.3292
+681,330935,,class3,female,Queenstown,dead,0,NA,8.1375
+682,PC 17572,D49,class1,male,Cherbourgherbourg,survival,27,(20_30],76.7292
+683,6563,,class3,male,Southampton,dead,20,(10_20],9.225
+684,CA 2144,,class3,male,Southampton,dead,14,(10_20],46.9
+685,29750,,class2,male,Southampton,dead,60,(50_60],39
+686,SC/Paris 2123,,class2,male,Cherbourgherbourg,dead,25,(20_30],41.5792
+687,3101295,,class3,male,Southampton,dead,14,(10_20],39.6875
+688,349228,,class3,male,Southampton,dead,19,(10_20],10.1708
+689,350036,,class3,male,Southampton,dead,18,(10_20],7.7958
+690,24160,B5,class1,female,Southampton,survival,15,(10_20],211.3375
+691,17474,B20,class1,male,Southampton,survival,31,(30_40],57
+692,349256,,class3,female,Cherbourgherbourg,survival,4,(0_10],13.4167
+693,1601,,class3,male,Southampton,survival,0,NA,56.4958
+694,2672,,class3,male,Cherbourgherbourg,dead,25,(20_30],7.225
+695,113800,,class1,male,Southampton,dead,60,(50_60],26.55
+696,248731,,class2,male,Southampton,dead,52,(50_60],13.5
+697,363592,,class3,male,Southampton,dead,44,(40_50],8.05
+698,35852,,class3,female,Queenstown,survival,0,NA,7.7333
+699,17421,C68,class1,male,Cherbourgherbourg,dead,49,(40_50],110.8833
+700,348121,F G63,class3,male,Southampton,dead,42,(40_50],7.65
+701,PC 17757,C62 C64,class1,female,Cherbourgherbourg,survival,18,(10_20],227.525
+702,PC 17475,E24,class1,male,Southampton,survival,35,(30_40],26.2875
+703,2691,,class3,female,Cherbourgherbourg,dead,18,(10_20],14.4542
+704,36864,,class3,male,Queenstown,dead,25,(20_30],7.7417
+705,350025,,class3,male,Southampton,dead,26,(20_30],7.8542
+706,250655,,class2,male,Southampton,dead,39,(30_40],26
+707,223596,,class2,female,Southampton,survival,45,(40_50],13.5
+708,PC 17476,E24,class1,male,Southampton,survival,42,(40_50],26.2875
+709,113781,,class1,female,Southampton,survival,22,(20_30],151.55
+710,2661,,class3,male,Cherbourgherbourg,survival,0,NA,15.2458
+711,PC 17482,C90,class1,female,Cherbourgherbourg,survival,24,(20_30],49.5042
+712,113028,C124,class1,male,Southampton,dead,0,NA,26.55
+713,19996,C126,class1,male,Southampton,survival,48,(40_50],52
+714,7545,,class3,male,Southampton,dead,29,(20_30],9.4833
+715,250647,,class2,male,Southampton,dead,52,(50_60],13
+716,348124,F G73,class3,male,Southampton,dead,19,(10_20],7.65
+717,PC 17757,C45,class1,female,Cherbourgherbourg,survival,38,(30_40],227.525
+718,34218,E101,class2,female,Southampton,survival,27,(20_30],10.5
+719,36568,,class3,male,Queenstown,dead,0,NA,15.5
+720,347062,,class3,male,Southampton,dead,33,(30_40],7.775
+721,248727,,class2,female,Southampton,survival,6,(0_10],33
+722,350048,,class3,male,Southampton,dead,17,(10_20],7.0542
+723,12233,,class2,male,Southampton,dead,34,(30_40],13
+724,250643,,class2,male,Southampton,dead,50,(40_50],13
+725,113806,E8,class1,male,Southampton,survival,27,(20_30],53.1
+726,315094,,class3,male,Southampton,dead,20,(10_20],8.6625
+727,31027,,class2,female,Southampton,survival,30,(20_30],21
+728,36866,,class3,female,Queenstown,survival,0,NA,7.7375
+729,236853,,class2,male,Southampton,dead,25,(20_30],26
+730,STON/O2. 3101271,,class3,female,Southampton,dead,25,(20_30],7.925
+731,24160,B5,class1,female,Southampton,survival,29,(20_30],211.3375
+732,2699,,class3,male,Cherbourgherbourg,dead,11,(10_20],18.7875
+733,239855,,class2,male,Southampton,dead,0,NA,0
+734,28425,,class2,male,Southampton,dead,23,(20_30],13
+735,233639,,class2,male,Southampton,dead,23,(20_30],13
+736,54636,,class3,male,Southampton,dead,28.5,(20_30],16.1
+737,W./C. 6608,,class3,female,Southampton,dead,48,(40_50],34.375
+738,PC 17755,B101,class1,male,Cherbourgherbourg,survival,35,(30_40],512.3292
+739,349201,,class3,male,Southampton,dead,0,NA,7.8958
+740,349218,,class3,male,Southampton,dead,0,NA,7.8958
+741,16988,D45,class1,male,Southampton,survival,0,NA,30
+742,19877,C46,class1,male,Southampton,dead,36,(30_40],78.85
+743,PC 17608,B57 B59 B63 B66,class1,female,Cherbourgherbourg,survival,21,(20_30],262.375
+744,376566,,class3,male,Southampton,dead,24,(20_30],16.1
+745,STON/O 2. 3101288,,class3,male,Southampton,survival,31,(30_40],7.925
+746,WE/P 5735,B22,class1,male,Southampton,dead,70,NA,71
+747,C.A. 2673,,class3,male,Southampton,dead,16,(10_20],20.25
+748,250648,,class2,female,Southampton,survival,30,(20_30],13
+749,113773,D30,class1,male,Southampton,dead,19,(10_20],53.1
+750,335097,,class3,male,Queenstown,dead,31,(30_40],7.75
+751,29103,,class2,female,Southampton,survival,4,(0_10],23
+752,392096,E121,class3,male,Southampton,survival,6,(0_10],12.475
+753,345780,,class3,male,Southampton,dead,33,(30_40],9.5
+754,349204,,class3,male,Southampton,dead,23,(20_30],7.8958
+755,220845,,class2,female,Southampton,survival,48,(40_50],65
+756,250649,,class2,male,Southampton,survival,0.67,(0_10],14.5
+757,350042,,class3,male,Southampton,dead,28,(20_30],7.7958
+758,29108,,class2,male,Southampton,dead,18,(10_20],11.5
+759,363294,,class3,male,Southampton,dead,34,(30_40],8.05
+760,110152,B77,class1,female,Southampton,survival,33,(30_40],86.5
+761,358585,,class3,male,Southampton,dead,0,NA,14.5
+762,SOTON/O2 3101272,,class3,male,Southampton,dead,41,(40_50],7.125
+763,2663,,class3,male,Cherbourgherbourg,survival,20,(10_20],7.2292
+764,113760,B96 B98,class1,female,Southampton,survival,36,(30_40],120
+765,347074,,class3,male,Southampton,dead,16,(10_20],7.775
+766,13502,D11,class1,female,Southampton,survival,51,(50_60],77.9583
+767,112379,,class1,male,Cherbourgherbourg,dead,0,NA,39.6
+768,364850,,class3,female,Queenstown,dead,30.5,(30_40],7.75
+769,371110,,class3,male,Queenstown,dead,0,NA,24.15
+770,8471,,class3,male,Southampton,dead,32,(30_40],8.3625
+771,345781,,class3,male,Southampton,dead,24,(20_30],9.5
+772,350047,,class3,male,Southampton,dead,48,(40_50],7.8542
+773,S.O./P.P. 3,E77,class2,female,Southampton,dead,57,(50_60],10.5
+774,2674,,class3,male,Cherbourgherbourg,dead,0,NA,7.225
+775,29105,,class2,female,Southampton,survival,54,(50_60],23
+776,347078,,class3,male,Southampton,dead,18,(10_20],7.75
+777,383121,F38,class3,male,Queenstown,dead,0,NA,7.75
+778,364516,,class3,female,Southampton,survival,5,(0_10],12.475
+779,36865,,class3,male,Queenstown,dead,0,NA,7.7375
+780,24160,B3,class1,female,Southampton,survival,43,(40_50],211.3375
+781,2687,,class3,female,Cherbourgherbourg,survival,13,(10_20],7.2292
+782,17474,B20,class1,female,Southampton,survival,17,(10_20],57
+783,113501,D6,class1,male,Southampton,dead,29,(20_30],30
+784,W./C. 6607,,class3,male,Southampton,dead,0,NA,23.45
+785,SOTON/O.Q. 3101312,,class3,male,Southampton,dead,25,(20_30],7.05
+786,374887,,class3,male,Southampton,dead,25,(20_30],7.25
+787,3101265,,class3,female,Southampton,survival,18,(10_20],7.4958
+788,382652,,class3,male,Queenstown,dead,8,(0_10],29.125
+789,C.A. 2315,,class3,male,Southampton,survival,1,(0_10],20.575
+790,PC 17593,B82 B84,class1,male,Cherbourgherbourg,dead,46,(40_50],79.2
+791,12460,,class3,male,Queenstown,dead,0,NA,7.75
+792,239865,,class2,male,Southampton,dead,16,(10_20],26
+793,CA. 2343,,class3,female,Southampton,dead,0,NA,69.55
+794,PC 17600,,class1,male,Cherbourgherbourg,dead,0,NA,30.6958
+795,349203,,class3,male,Southampton,dead,25,(20_30],7.8958
+796,28213,,class2,male,Southampton,dead,39,(30_40],13
+797,17465,D17,class1,female,Southampton,survival,49,(40_50],25.9292
+798,349244,,class3,female,Southampton,survival,31,(30_40],8.6833
+799,2685,,class3,male,Cherbourgherbourg,dead,30,(20_30],7.2292
+800,345773,,class3,female,Southampton,dead,30,(20_30],24.15
+801,250647,,class2,male,Southampton,dead,34,(30_40],13
+802,C.A. 31921,,class2,female,Southampton,survival,31,(30_40],26.25
+803,113760,B96 B98,class1,male,Southampton,survival,11,(10_20],120
+804,2625,,class3,male,Cherbourgherbourg,survival,0.42,(0_10],8.5167
+805,347089,,class3,male,Southampton,survival,27,(20_30],6.975
+806,347063,,class3,male,Southampton,dead,31,(30_40],7.775
+807,112050,A36,class1,male,Southampton,dead,39,(30_40],0
+808,347087,,class3,female,Southampton,dead,18,(10_20],7.775
+809,248723,,class2,male,Southampton,dead,39,(30_40],13
+810,113806,E8,class1,female,Southampton,survival,33,(30_40],53.1
+811,3474,,class3,male,Southampton,dead,26,(20_30],7.8875
+812,A/4 48871,,class3,male,Southampton,dead,39,(30_40],24.15
+813,28206,,class2,male,Southampton,dead,35,(30_40],10.5
+814,347082,,class3,female,Southampton,dead,6,(0_10],31.275
+815,364499,,class3,male,Southampton,dead,30.5,(30_40],8.05
+816,112058,B102,class1,male,Southampton,dead,0,NA,0
+817,STON/O2. 3101290,,class3,female,Southampton,dead,23,(20_30],7.925
+818,S.C./PARIS 2079,,class2,male,Cherbourgherbourg,dead,31,(30_40],37.0042
+819,C 7075,,class3,male,Southampton,dead,43,(40_50],6.45
+820,347088,,class3,male,Southampton,dead,10,(0_10],27.9
+821,12749,B69,class1,female,Southampton,survival,52,(50_60],93.5
+822,315098,,class3,male,Southampton,survival,27,(20_30],8.6625
+823,19972,,class1,male,Southampton,dead,38,(30_40],0
+824,392096,E121,class3,female,Southampton,survival,27,(20_30],12.475
+825,3101295,,class3,male,Southampton,dead,2,(0_10],39.6875
+826,368323,,class3,male,Queenstown,dead,0,NA,6.95
+827,1601,,class3,male,Southampton,dead,0,NA,56.4958
+828,S.C./PARIS 2079,,class2,male,Cherbourgherbourg,survival,1,(0_10],37.0042
+829,367228,,class3,male,Queenstown,survival,0,NA,7.75
+830,113572,B28,class1,female,null,survival,62,NA,80
+831,2659,,class3,female,Cherbourgherbourg,survival,15,(10_20],14.4542
+832,29106,,class2,male,Southampton,survival,0.83,(0_10],18.75
+833,2671,,class3,male,Cherbourgherbourg,dead,0,NA,7.2292
+834,347468,,class3,male,Southampton,dead,23,(20_30],7.8542
+835,2223,,class3,male,Southampton,dead,18,(10_20],8.3
+836,PC 17756,E49,class1,female,Cherbourgherbourg,survival,39,(30_40],83.1583
+837,315097,,class3,male,Southampton,dead,21,(20_30],8.6625
+838,392092,,class3,male,Southampton,dead,0,NA,8.05
+839,1601,,class3,male,Southampton,survival,32,(30_40],56.4958
+840,11774,C47,class1,male,Cherbourgherbourg,survival,0,NA,29.7
+841,SOTON/O2 3101287,,class3,male,Southampton,dead,20,(10_20],7.925
+842,S.O./P.P. 3,,class2,male,Southampton,dead,16,(10_20],10.5
+843,113798,,class1,female,Cherbourgherbourg,survival,30,(20_30],31
+844,2683,,class3,male,Cherbourgherbourg,dead,34.5,(30_40],6.4375
+845,315090,,class3,male,Southampton,dead,17,(10_20],8.6625
+846,C.A. 5547,,class3,male,Southampton,dead,42,(40_50],7.55
+847,CA. 2343,,class3,male,Southampton,dead,0,NA,69.55
+848,349213,,class3,male,Cherbourgherbourg,dead,35,(30_40],7.8958
+849,248727,,class2,male,Southampton,dead,28,(20_30],33
+850,17453,C92,class1,female,Cherbourgherbourg,survival,0,NA,89.1042
+851,347082,,class3,male,Southampton,dead,4,(0_10],31.275
+852,347060,,class3,male,Southampton,dead,74,NA,7.775
+853,2678,,class3,female,Cherbourgherbourg,dead,9,(0_10],15.2458
+854,PC 17592,D28,class1,female,Southampton,survival,16,(10_20],39.4
+855,244252,,class2,female,Southampton,dead,44,(40_50],26
+856,392091,,class3,female,Southampton,survival,18,(10_20],9.35
+857,36928,,class1,female,Southampton,survival,45,(40_50],164.8667
+858,113055,E17,class1,male,Southampton,survival,51,(50_60],26.55
+859,2666,,class3,female,Cherbourgherbourg,survival,24,(20_30],19.2583
+860,2629,,class3,male,Cherbourgherbourg,dead,0,NA,7.2292
+861,350026,,class3,male,Southampton,dead,41,(40_50],14.1083
+862,28134,,class2,male,Southampton,dead,21,(20_30],11.5
+863,17466,D17,class1,female,Southampton,survival,48,(40_50],25.9292
+864,CA. 2343,,class3,female,Southampton,dead,0,NA,69.55
+865,233866,,class2,male,Southampton,dead,24,(20_30],13
+866,236852,,class2,female,Southampton,survival,42,(40_50],13
+867,SC/PARIS 2149,,class2,female,Cherbourgherbourg,survival,27,(20_30],13.8583
+868,PC 17590,A24,class1,male,Southampton,dead,31,(30_40],50.4958
+869,345777,,class3,male,Southampton,dead,0,NA,9.5
+870,347742,,class3,male,Southampton,survival,4,(0_10],11.1333
+871,349248,,class3,male,Southampton,dead,26,(20_30],7.8958
+872,11751,D35,class1,female,Southampton,survival,47,(40_50],52.5542
+873,695,B51 B53 B55,class1,male,Southampton,dead,33,(30_40],5
+874,345765,,class3,male,Southampton,dead,47,(40_50],9
+875,P/PP 3381,,class2,female,Cherbourgherbourg,survival,28,(20_30],24
+876,2667,,class3,female,Cherbourgherbourg,survival,15,(10_20],7.225
+877,7534,,class3,male,Southampton,dead,20,(10_20],9.8458
+878,349212,,class3,male,Southampton,dead,19,(10_20],7.8958
+879,349217,,class3,male,Southampton,dead,0,NA,7.8958
+880,11767,C50,class1,female,Cherbourgherbourg,survival,56,(50_60],83.1583
+881,230433,,class2,female,Southampton,survival,25,(20_30],26
+882,349257,,class3,male,Southampton,dead,33,(30_40],7.8958
+883,7552,,class3,female,Southampton,dead,22,(20_30],10.5167
+884,C.A./SOTON 34068,,class2,male,Southampton,dead,28,(20_30],10.5
+885,SOTON/OQ 392076,,class3,male,Southampton,dead,25,(20_30],7.05
+886,382652,,class3,female,Queenstown,dead,39,(30_40],29.125
+887,211536,,class2,male,Southampton,dead,27,(20_30],13
+888,112053,B42,class1,female,Southampton,survival,19,(10_20],30
+889,W./C. 6607,,class3,female,Southampton,dead,0,NA,23.45
+890,111369,C148,class1,male,Cherbourgherbourg,survival,26,(20_30],30
+891,370376,,class3,male,Queenstown,dead,32,(30_40],7.75

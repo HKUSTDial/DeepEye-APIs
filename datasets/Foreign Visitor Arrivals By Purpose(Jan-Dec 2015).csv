@@ -1,0 +1,172 @@
+Nationality,Continent,Purpose,Total(million)
+VARCHAR(20),VARCHAR(10),VARCHAR(20),FLOAT
+Japan,Asia,Business,77.81
+Japan,Asia,Trip,39.28
+Japan,Asia,Visting Relatives,5.35
+Japan,Asia,Works,11.71
+Japan,Asia,Others,115.62
+Korea,Asia,Business,110.58
+Korea,Asia,Trip,202.24
+Korea,Asia,Visting Relatives,3.43
+Korea,Asia,Works,40.6
+Korea,Asia,Others,87.53
+North Korea,Asia,Business,2.59
+North Korea,Asia,Trip,0.15
+North Korea,Asia,Visting Relatives,0.01
+North Korea,Asia,Works,9.42
+North Korea,Asia,Others,6.67
+Mongolia,Asia,Business,10.38
+Mongolia,Asia,Trip,6.03
+Mongolia,Asia,Visting Relatives,0.04
+Mongolia,Asia,Works,22.21
+Mongolia,Asia,Others,62.57
+Philippines,Asia,Business,3.22
+Philippines,Asia,Trip,19.34
+Philippines,Asia,Visting Relatives,0.27
+Philippines,Asia,Works,67.68
+Philippines,Asia,Others,9.89
+Thailand,Asia,Business,4.21
+Thailand,Asia,Trip,35.28
+Thailand,Asia,Visting Relatives,0.27
+Thailand,Asia,Works,17.28
+Thailand,Asia,Others,7.11
+Singapore,Asia,Business,20.33
+Singapore,Asia,Trip,24.55
+Singapore,Asia,Visting Relatives,5.23
+Singapore,Asia,Works,6.78
+Singapore,Asia,Others,33.64
+Indonesia,Asia,Business,2.91
+Indonesia,Asia,Trip,31.28
+Indonesia,Asia,Visting Relatives,0.37
+Indonesia,Asia,Works,14.54
+Indonesia,Asia,Others,5.38
+Malaysia,Asia,Business,15.82
+Malaysia,Asia,Trip,64.2
+Malaysia,Asia,Visting Relatives,1.39
+Malaysia,Asia,Works,9.57
+Malaysia,Asia,Others,16.57
+Pakistan,Asia,Business,3.63
+Pakistan,Asia,Trip,2.82
+Pakistan,Asia,Visting Relatives,0.09
+Pakistan,Asia,Works,0.82
+Pakistan,Asia,Others,3.95
+India,Asia,Business,19.8
+India,Asia,Trip,16.53
+India,Asia,Visting Relatives,0.34
+India,Asia,Works,17.08
+India,Asia,Others,19.29
+Nepal,Asia,Business,0.91
+Nepal,Asia,Trip,1.44
+Nepal,Asia,Visting Relatives,0.04
+Nepal,Asia,Works,0.77
+Nepal,Asia,Others,1.84
+Sri Lanka,Asia,Business,1.49
+Sri Lanka,Asia,Trip,0.58
+Sri Lanka,Asia,Visting Relatives,0.02
+Sri Lanka,Asia,Works,2.34
+Sri Lanka,Asia,Others,1.38
+Kazakhstan,Asia,Business,1.63
+Kazakhstan,Asia,Trip,12.24
+Kazakhstan,Asia,Visting Relatives,0.58
+Kazakhstan,Asia,Works,5.37
+Kazakhstan,Asia,Others,4.33
+Kirghizia,Asia,Business,0.14
+Kirghizia,Asia,Trip,1.63
+Kirghizia,Asia,Visting Relatives,0.03
+Kirghizia,Asia,Works,2.08
+Kirghizia,Asia,Others,0.5
+America,America,Business,37.95
+America,America,Trip,77.07
+America,America,Visting Relatives,19.18
+America,America,Works,14.17
+America,America,Others,60.2
+Canada,America,Business,8.1
+Canada,America,Trip,18.25
+Canada,America,Visting Relatives,16.05
+Canada,America,Works,3.08
+Canada,America,Others,22.49
+Mexico,America,Business,1.33
+Mexico,America,Trip,3.06
+Mexico,America,Visting Relatives,0.07
+Mexico,America,Works,0.54
+Mexico,America,Others,1.83
+England,Europe,Business,14.78
+England,Europe,Trip,17.97
+England,Europe,Visting Relatives,2.69
+England,Europe,Works,4.4
+England,Europe,Others,18.13
+Germany,Europe,Business,21.19
+Germany,Europe,Trip,11.73
+Germany,Europe,Visting Relatives,2.28
+Germany,Europe,Works,3.99
+Germany,Europe,Others,23.14
+France,Europe,Business,9.29
+France,Europe,Trip,15.43
+France,Europe,Visting Relatives,1.49
+France,Europe,Works,3.71
+France,Europe,Others,18.78
+Italia,Europe,Business,6.46
+Italia,Europe,Trip,7.81
+Italia,Europe,Visting Relatives,0.33
+Italia,Europe,Works,2.59
+Italia,Europe,Others,7.42
+Russia,Europe,Business,54.81
+Russia,Europe,Trip,64.02
+Russia,Europe,Visting Relatives,0.41
+Russia,Europe,Works,24.44
+Russia,Europe,Others,14.55
+Swit,Europe,Business,1.8
+Swit,Europe,Trip,2.49
+Swit,Europe,Visting Relatives,0.27
+Swit,Europe,Works,0.7
+Swit,Europe,Others,2
+Sweden,Europe,Business,3.26
+Sweden,Europe,Trip,2.81
+Sweden,Europe,Visting Relatives,0.73
+Sweden,Europe,Works,0.6
+Sweden,Europe,Others,4.44
+Netherlands,Europe,Business,4.37
+Netherlands,Europe,Trip,4.86
+Netherlands,Europe,Visting Relatives,0.9
+Netherlands,Europe,Works,1.98
+Netherlands,Europe,Others,6.07
+Norway,Europe,Business,1.06
+Norway,Europe,Trip,1.25
+Norway,Europe,Visting Relatives,0.23
+Norway,Europe,Works,0.13
+Norway,Europe,Others,1.44
+Austria,Europe,Business,1.94
+Austria,Europe,Trip,1.4
+Austria,Europe,Visting Relatives,0.38
+Austria,Europe,Works,0.54
+Austria,Europe,Others,1.82
+Belgium,Europe,Business,1.69
+Belgium,Europe,Trip,2.18
+Belgium,Europe,Visting Relatives,0.26
+Belgium,Europe,Works,0.38
+Belgium,Europe,Others,2.01
+Spain,Europe,Business,3.1
+Spain,Europe,Trip,4.74
+Spain,Europe,Visting Relatives,0.35
+Spain,Europe,Works,0.91
+Spain,Europe,Others,4.54
+Portugal,Europe,Business,0.68
+Portugal,Europe,Trip,2.97
+Portugal,Europe,Visting Relatives,0.05
+Portugal,Europe,Works,0.58
+Portugal,Europe,Others,1.05
+Australian,Oceania,Business,11.58
+Australian,Oceania,Trip,20.13
+Australian,Oceania,Visting Relatives,9.85
+Australian,Oceania,Works,2.8
+Australian,Oceania,Others,19.37
+New Zealand,Oceania,Business,2.39
+New Zealand,Oceania,Trip,3.04
+New Zealand,Oceania,Visting Relatives,1.7
+New Zealand,Oceania,Works,0.68
+New Zealand,Oceania,Others,4.74
+Africa,Africa,Business,21.08
+Africa,Africa,Trip,13.28
+Africa,Africa,Visting Relatives,0.48
+Africa,Africa,Works,5.92
+Africa,Africa,Others,17.26

@@ -1,0 +1,76 @@
+Film,Genre,Lead Studio,Audience  score %,Profitability,Rotten Tomatoes %,Worldwide Gross,Year
+varchar(100),varchar(50),varchar(50),Int,Float,Float,Float,varchar(25)
+27 Dresses,Comedy,Fox,71,5.34,40,160.31,2008
+(500) Days of Summer,Comedy,Fox,81,8.1,87,60.72,2009
+A Dangerous Method,Drama,Independent,89,0.45,79,8.97,2011
+A Serious Man,Drama,Universal,64,4.38,89,30.68,2009
+Across the Universe,Romance,Independent,84,0.65,54,29.37,2007
+Beginners,Comedy,Independent,80,4.47,84,14.31,2011
+Dear John,Drama,Sony,66,4.6,29,114.97,2010
+Enchanted,Comedy,Disney,80,4.01,93,340.49,2007
+Fireproof,Drama,Independent,51,66.93,40,33.47,2008
+Four Christmases,Comedy,Warner Bros.,52,2.02,26,161.83,2008
+Ghosts of Girlfriends Past,Comedy,Warner Bros.,47,2.04,27,102.22,2009
+Gnomeo and Juliet,Animation,Disney,52,5.39,56,193.97,2011
+Going the Distance,Comedy,Warner Bros.,56,1.31,53,42.05,2010
+Good Luck Chuck,Comedy,Lionsgate,61,2.37,3,59.19,2007
+He's Just Not That Into You,Comedy,Warner Bros.,60,7.15,42,178.84,2009
+High School Musical 3: Senior Year,Comedy,Disney,76,22.91,65,252.04,2008
+I Love You Phillip Morris,Comedy,Independent,57,1.34,71,20.1,2010
+It's Complicated,Comedy,Universal,63,2.64,56,224.6,2009
+Jane Eyre,Romance,Universal,77,1.4,85,30.15,2011
+Just Wright,Comedy,Fox,58,1.8,45,21.57,2010
+Killers,Action,Lionsgate,45,1.25,11,93.4,2010
+Knocked Up,Comedy,Universal,83,6.64,91,219,2007
+Leap Year,Comedy,Universal,49,1.72,21,32.59,2010
+Letters to Juliet,Comedy,Summit,62,2.64,40,79.18,2010
+License to Wed,Comedy,Warner Bros.,55,1.98,8,69.31,2007
+Life as We Know It,Comedy,Independent,62,2.53,28,96.16,2010
+Love & Other Drugs,Comedy,Fox,55,1.82,48,54.53,2010
+Love Happens,Drama,Universal,40,2,18,36.08,2009
+Made of Honor,Comedy,Sony,61,2.65,13,105.96,2008
+Mamma Mia!,Comedy,Universal,76,9.23,53,609.47,2008
+Marley and Me,Comedy,Fox,77,3.75,63,206.07,2008
+Midnight in Paris,Romance,Sony,84,8.74,93,148.66,2011
+Miss Pettigrew Lives for a Day,Comedy,Independent,70,0.25,78,15.17,2008
+Monte Carlo,Romance,20th Century Fox,50,1.98,38,39.66,2011
+Music and Lyrics,Romance,Warner Bros.,70,3.65,63,145.9,2007
+My Week with Marilyn,Drama,The Weinstein Company,84,0.83,83,8.26,2011
+New Year's Eve,Romance,Warner Bros.,48,2.54,8,142.04,2011
+Nick and Norah's Infinite Playlist,Comedy,Sony,67,3.35,73,33.53,2008
+No Reservations,Comedy,,64,3.31,39,92.6,2007
+Not Easily Broken,Drama,Independent,66,2.14,34,10.7,2009
+One Day,Romance,Independent,54,3.68,37,55.24,2011
+Our Family Wedding,Comedy,Independent,49,3.2,14,21.37,2010
+Over Her Dead Body,Comedy,New Line,47,2.07,15,20.71,2008
+P.S. I Love You,Romance,Independent,82,5.1,21,153.09,2007
+Penelope,Comedy,Summit,74,1.38,52,20.74,2008
+Rachel Getting Married,Drama,Independent,61,1.38,85,16.61,2008
+Remember Me,Drama,Summit,70,3.49,28,55.86,2010
+Sex and the City,Comedy,Warner Bros.,81,7.22,49,415.25,2008
+Sex and the City 2,Comedy,Warner Bros.,49,2.88,15,288.35,2010
+She's Out of My League,Comedy,Paramount,60,2.44,57,48.81,2010
+Something Borrowed,Romance,Independent,,1.72,56,60.18,2011
+Tangled,Animation,Disney,88,1.37,89,355.08,2010
+The Back-up Plan,Comedy,CBS,47,2.2,20,77.09,2010
+The Curious Case of Benjamin Button,Fantasy,Warner Bros.,81,1.78,73,285.43,2008
+The Duchess,Drama,Paramount,68,3.21,60,43.31,2008
+The Heartbreak Kid,Comedy,Paramount,41,2.13,30,127.77,2007
+The Invention of Lying,Comedy,Warner Bros.,47,1.75,56,32.4,2009
+The Proposal,Comedy,Disney,74,7.87,43,314.7,2009
+The Time Traveler's Wife,Drama,Paramount,65,2.6,38,101.33,2009
+The Twilight Saga: New Moon,Drama,Summit,78,14.2,27,709.82,2009
+The Ugly Truth,Comedy,Independent,68,5.4,14,205.3,2009
+Twilight,Romance,Summit,82,10.18,49,376.66,2008
+Twilight: Breaking Dawn,Romance,Independent,68,6.38,26,702.17,2011
+Tyler Perry's Why Did I get Married,Romance,Independent,47,3.72,46,55.86,2007
+Valentine's Day,Comedy,Warner Bros.,54,4.18,17,217.57,2010
+Waiting For Forever,Romance,Independent,53,0.01,6,0.03,2011
+Waitress,Romance,Independent,67,11.09,89,22.18,2007
+WALL-E,Animation,Disney,89,2.9,96,521.28,2008
+Water For Elephants,Drama,20th Century Fox,72,3.08,60,117.09,2011
+What Happens in Vegas,Comedy,Fox,72,6.27,28,219.37,2008
+When in Rome,Comedy,Disney,44,1.3,15,43.04,2010
+You Will Meet a Tall Dark Stranger,Comedy,Independent,35,1.21,43,26.66,2010
+Youth in Revolt,Comedy,The Weinstein Company,52,1.09,68,19.62,2010
+Zack and Miri Make a Porno,Romance,The Weinstein Company,70,1.75,64,41.94,2008
