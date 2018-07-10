@@ -71,10 +71,11 @@ or
 ```
 'city' 'date' 'electricity(kWh)'
 ```
-- **column_type** the type of columns, following the MySQL database standard, e.g.,
+- **column_type**: the type of columns, following the MySQL database standard, e.g.,
 ```
 'VARCHAR(25)' 'DATE' 'FLOAT'
 ```
+
 ==NOTE: all arguments are separated by spaces==
 
 ### 3. Output
