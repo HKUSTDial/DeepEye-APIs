@@ -12,7 +12,7 @@ the task is, given two visualization nodes, to decide which one is better. Hence
 
 Platforms
 ===========================
-DeepEye - APIs has been tested on **OS X**, **Centos**, **Linus**, and **Windows 10**.
+DeepEye - APIs has been tested on **OS X**, **CentOS**, **Linux**, and **Windows 10**.
 
 Clone from Github
 ===========================
