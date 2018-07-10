@@ -25,12 +25,12 @@ DeepEye gets dataset for visualization from MySQL database. A dataset for visual
 
 city| date | electricity(kWh)
 ---|---| ---|
-|Eastern China|	2011/1/1|	251503.28|
-|Shanghai	|2011/1/1|	33764.17
-|Jiangsu	|2011/1/1|	91192
+|Eastern China| 2011/1/1|   251503.28|
+|Shanghai   |2011/1/1|  33764.17
+|Jiangsu    |2011/1/1|  91192
 |...|...|...
-|Zhejiang|	2016/8/25|	110648.34
-|Shanghai	|2016/8/25|	66249.55
+|Zhejiang|  2016/8/25|  110648.34
+|Shanghai   |2016/8/25| 66249.55
 
 #### 2. Execute Recommendation Algorithm
 We can run the algorithm by executing *.pyc file, following the below guidance:
