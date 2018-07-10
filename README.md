@@ -77,7 +77,7 @@ or
 ```
 
 
-==NOTE: all arguments are separated by spaces==
+**++NOTE++**: all arguments are separated by spaces
 
 
 ### 3. Output
