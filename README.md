@@ -47,5 +47,5 @@ Contributors
 |1|[Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/)|Professor, Tsinghua University| LastName+FirstName@tsinghua.edu.cn
 |2|[Nan Tang](http://da.qcri.org/ntang/index.html)|Senior Scientist, Qatar Computing Research Institute|ntang@hbku.edu.qa
 |3|Xuedi Qin| PhD Candidate, Tsinghua University| qxd17@mails.tsinghua.edu.cn
-|4|Yuyu Luo| M.S. Student, Tsinghua University| luoyuyu@tsinghua.edu.cn
-##### If you have any questions or feedbacks about this project, please feel free to contact Yuyu Luo (luoyuyu@tsinghua.edu.cn).
+|4|Yuyu Luo| M.S. Student, Tsinghua University| luoyy18@mails.tsinghua.edu.cn
+##### If you have any questions or feedbacks about this project, please feel free to contact Yuyu Luo (luoyy18@mails.tsinghua.edu.cn).
