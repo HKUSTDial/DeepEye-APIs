@@ -1,5 +1,6 @@
 DeepEye - APIs
 ===========================
+**This is an ongoing project that is aiming to recommend good visualizations from a relational dataset.**
 This repository share the APIs of the DeepEye's visualization recommendation module. A live demo of DeepEye: http://deepeye.tech
 
 Description
