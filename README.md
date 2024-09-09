@@ -41,13 +41,5 @@ Publications
 - Yuyu Luo, Xueqi Qin, Nan Tang, Guoliang Li. [DeepEye: Towards Automatic Data Visualization](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde18-deepeye.pdf). **ICDE 2018**
 - Yuyu Luo, Xuedi Qin, Nan Tang Guoliang Li, Xinran Wang. [DeepEye: Creating Good Data Visualizations by Keyword Search](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod18-deepeye.pdf). **SIGMOD 2018 Demo**
 
-Contributors
-===========================
-|#|Contributor|Affiliation|Contact|
-|---|----|-----|-----|
-|1|[Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/)|Professor, Tsinghua University| LastName+FirstName@tsinghua.edu.cn
-|2|[Nan Tang](http://da.qcri.org/ntang/index.html)|Senior Scientist, Qatar Computing Research Institute|ntang@hbku.edu.qa
-|3|[Yuyu Luo](https://luoyuyu.vip)| PhD Candidate, Tsinghua University| luoyy18@mails.tsinghua.edu.cn
-|4|Xuedi Qin| PhD Candidate, Tsinghua University| qxd17@mails.tsinghua.edu.cn
-|5|Wenbo Li| PhD Student, Tsinghua University| li-wb17@mails.tsinghua.edu.cn
-##### If you have any questions or feedbacks about this project, please feel free to contact Yuyu Luo (luoyy18@mails.tsinghua.edu.cn).
+# Contact
+If you have any questions, feel free to contact Yuyu Luo (yuyuluo [AT] hkust-gz.edu.cn).
